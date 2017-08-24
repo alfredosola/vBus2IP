@@ -24,6 +24,8 @@ This is based off https://github.com/bbqkees/vbus-arduino-domoticz which provide
 ### Documentation
 I got all the information I needed from the document **RESOL VBus Protocol Specification** dated 11.10.2007, which I found somewhere (can't recall exactly where). The document came in a PDF file titled **VBus_Protokol_en_20071218.pdf**.
 
+Many a source and the circuit schematic came from [Piamble blog](https://piamble.wordpress.com/2014/06/17/home-energy-centre-using-raspberry-pi-and-nook-simple-touch/)
+
 Other sources are hinted at in the sketch.
 
 That is all the info I have for now. Feel free to ping me if you believe I could clarify matters here and there.
