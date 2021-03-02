@@ -21,6 +21,8 @@ I have tested it with a Roth BW/H Komfort, which is a rebranded Resol Deltasol M
 
 This is based off https://github.com/bbqkees/vbus-arduino-domoticz which provided the basis for this sketch, as well as a great deal of hints.
 
+Also take a look at the library version at https://github.com/FatBeard/vbus-arduino-library
+
 ### Documentation
 I got all the information I needed from the document **RESOL VBus Protocol Specification** dated 11.10.2007, which I found somewhere (can't recall exactly where). The document came in a PDF file titled **VBus_Protokol_en_20071218.pdf**.
 
